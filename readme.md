@@ -3,18 +3,6 @@
 
 Hi! As a group of Computer Science students, we thought of addressing a daily-life problem, like consuming or using expired products. So we decided to team up to create an app, to store expiry dates of products and notify the user before expiration date. Though what we are making is simple, what makes this app **ToTrash** interesting is it's smart way of using Text recognization in Image Processing to store dates with one click from your camera button.  
 
-## Team
-
-- Sathwik Chowda - Concept & App development
-
-- Hana Awad - Planning & Documentation & App development
-
-- Pranay Bachu - App development & Documentation
-
-- Die(Farfalla) Hu - UI Design & UI development
-
-- Dylan Drumm - App development
-
 ## Video Demonstration 
 
 Link: https://www.youtube.com/watch?v=7uH3e79BUpE
